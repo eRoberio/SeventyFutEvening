@@ -19,9 +19,9 @@ A SeventyFutEvening é uma associação recreativa de futsal/society formada pel
 - Atrasos acima de **15 minutos** implicam na perda do direito de jogar no primeiro tempo, salvo aviso prévio com justificativa.
 
 2.3 **Pagamento e Contribuições**  
-- A mensalidade da associação será de **R$ 30,00 por membro**, com vencimento no dia **10 de cada mês**.  
+- A mensalidade da associação será de **R$ 20,00 por membro**, com vencimento no dia **10 de cada mês**.  
 - O valor arrecadado será utilizado para:  
-  - Aluguel da quadra;  
+  - ~Aluguel da quadra~;  
   - Compra e manutenção de bolas, uniformes e materiais;  
   - Organização de eventos e confraternizações.  
 - Atrasos no pagamento acarretarão multa de **R$ 5,00 por semana de atraso**.  
