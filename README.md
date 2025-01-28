@@ -21,7 +21,7 @@ A SeventyFutEvening é uma associação recreativa de futsal/society formada pel
 2.3 **Pagamento e Contribuições**  
 - A mensalidade da associação será de **R$ 25,00 por membro**, com vencimento no dia **10 de cada mês**.  
 - O valor arrecadado será utilizado para:  
-  - ~Aluguel da quadra~;    **AGUARDANDO CONFIRMAÇÃO** | **OBS**: _Caso nao tenhamos que pagar a quadra por ser privada para alunos o valor da mensalidade será reduzido._
+  - ~Aluguel da quadra~;    **AGUARDANDO CONFIRMAÇÃO** | **OBS**: _Caso a quadra seja de uso gratuito por ser uma instalação privada para alunos, o valor da mensalidade será reduzido proporcionalmente._
   - Compra e manutenção de bolas, uniformes e materiais;  
   - Organização de eventos e confraternizações.  
 - Atrasos no pagamento acarretarão multa de **R$ 5,00 por semana de atraso**.  
