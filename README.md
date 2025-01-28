@@ -14,14 +14,14 @@ A SeventyFutEvening é uma associação recreativa de futsal/society formada pel
 - Ausências sem aviso prévio resultarão em **multa de R$ 5,00**, a ser destinada ao fundo da associação.
 
 2.2 **Horários e Pontualidade**  
-- Os jogos ocorrerão às **terças e quintas-feiras, das 19h às 21h**.  
+- Os jogos ocorrerão às **terças e quintas-feiras, das 19h às 21h**.  **AGUARDANDO CONFIRMAÇÃO**
 - Os participantes devem chegar ao local com, no mínimo, **15 minutos de antecedência** para organização e aquecimento.  
 - Atrasos acima de **15 minutos** implicam na perda do direito de jogar no primeiro tempo, salvo aviso prévio com justificativa.
 
 2.3 **Pagamento e Contribuições**  
-- A mensalidade da associação será de **R$ 20,00 por membro**, com vencimento no dia **10 de cada mês**.  
+- A mensalidade da associação será de **R$ 25,00 por membro**, com vencimento no dia **10 de cada mês**.  
 - O valor arrecadado será utilizado para:  
-  - ~Aluguel da quadra~;  
+  - ~Aluguel da quadra~;    **AGUARDANDO CONFIRMAÇÃO** | **OBS**: _Caso nao tenhamos que pagar a quadra por ser privada para alunos o valor da mensalidade será reduzido._
   - Compra e manutenção de bolas, uniformes e materiais;  
   - Organização de eventos e confraternizações.  
 - Atrasos no pagamento acarretarão multa de **R$ 5,00 por semana de atraso**.  
